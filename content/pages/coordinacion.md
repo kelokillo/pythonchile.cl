@@ -408,6 +408,29 @@ este gran equipo, no dudes en contactarnos en alguna de nuestras plataformas.
     </div> <!-- end row -->
   </div> <!-- end col -->
   <!-- end entrada persona  -->
+ <div class="col-lg-3 mb-4">
+    <div class="row">
+      <div class="col-md-12">
+        <img class="img-fluid rounded-circle" src="../images/coordinacion_gabriel_munoz.jpg" alt="Gabriel Munoz Castro">
+      </div>
+      <div class="col-md-12 text-center">
+        <div class="pt-2">
+          <h5 class="mt-4 font-weight-medium mb-0">Gabriel Muñoz Castro</h5>
+          <h6 class="subtitle mb-2 mt-2">
+            <a href="https://github.com/mrGoonies"><i class="fab fa-github fa-lg mr-1"></i></a>
+            <a href="https://www.linkedin.com/in/g-munoz-castro/"><i class="fab fa-linkedin fa-lg mr-1"></i></a>
+          </h6>
+          <p class="card-text-coord">
+          Estudiante de informática y desarrollador de software en una Startup. Me encanta aprender cosas nuevas y ayudar a las personas con mi conocimiento. Python me da superpoderes.      
+          </p>
+          <hr/>
+        </div>
+      </div>
+    </div> <!-- end row -->
+  </div> <!-- end col -->
+  <!-- end entrada persona  -->
+
+
 
 
 </div> <!-- end row -->
