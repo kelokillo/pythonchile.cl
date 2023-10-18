@@ -184,5 +184,17 @@ INTEGRANTES = {
             "Dedicado al desarrollo web, "
             "principalmente backend y un entusiasta de la tecnologia."
         ),
+    },
+    "Kalfukoyam Treuquil": {
+        "img": "",
+        "linkedin": "kalfukoyam-treuquil-calfumil",
+        "github": "kelokillo",
+        "twitter": "",
+        "activo": "1",
+        "descripcion": (
+            "Joven Apasionado por la Ciencia y Python. "
+            "Principiante en el desarrollo web, "
+            "Backend y Frontend developer"
+        ),
     }
 }
